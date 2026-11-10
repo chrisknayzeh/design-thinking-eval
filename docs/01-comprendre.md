@@ -25,5 +25,5 @@
 * Gérer le parc de machines disponibles et leurs programmes de lavage associés.
 *  Identifier et traçer les vêtements de façon unique via leurs code barre.
 *  Affecter automatiquement chaque vêtement au programme de lavage le plus adapté
-*  Suivre l'état de chaque cycle de lavage en temps réel
+* Suivre l'état de chaque cycle de lavage en temps réel
 * Maintenir un historique complet des dépôts et opérations par client
